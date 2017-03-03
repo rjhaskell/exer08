@@ -1,3 +1,7 @@
+*.js
+*.js.map
+
+
 # Build and Release Folders
 bin/
 bin-debug/
